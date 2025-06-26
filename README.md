@@ -1,6 +1,6 @@
 # Microbiome Bioinformatics Analysis
 ## Lecture Content
-### [Lecture 1: Introduction to Next-Generation Sequecning (NGS), Microbiome and Applications" (8h30-9h) [Loi]](Lecture_1)
+### [Lecture 1: Introduction to Next-Generation Sequecning (NGS), Microbiome and Applications (8h30-9h) [Loi]](Lecture_1)
 - [PDF](Lecture_1/Introduction_to_BfCG_20241215.pdf)
 
 ### [Lecture 2: Ảnh hưởng của việc bổ sung lysophospholipid vào khẩu phần ăn lipid thấp lên hệ vi sinh vật đường ruột của tôm thẻ chân trắng (Litopenaeus vannamei)  (9h-9h45) [Khai]](Lecture_2)
