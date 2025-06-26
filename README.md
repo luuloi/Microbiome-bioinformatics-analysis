@@ -4,8 +4,8 @@
 - [PDF](Lecture_1/Introduction_to_BfCG_20241215.pdf)
 
 ### [Lecture 2: Ảnh hưởng của việc bổ sung lysophospholipid vào khẩu phần ăn lipid thấp lên hệ vi sinh vật đường ruột của tôm thẻ chân trắng (Litopenaeus vannamei)  (9h-9h45) [Khai]](Lecture_2)
-- [PDF](Lecture_2/Introduction_DNA-seq_20241215.pdf)
-- [YOUTUBE](https://www.youtube.com/watch?v=PPeri-O-6OY&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=2)
+- [PDF](https://github.com/luuloi/Microbiome-bioinformatics-analysis/blob/main/lecture2/16Sshrimp_RP.pptx.pdf)
+- [YOUTUBE]()
 
 ### [Lecture 3: Nghiên cứu đặc điểm của hệ vi sinh vật trong đất nông nghiệp ở Lâm Đồng, Việt Nam (9h45-10h30) [Hung]](Lecture_3)
 - [PDF](Lecture_3/Introduction_DNA-seq_20241215.pdf)
