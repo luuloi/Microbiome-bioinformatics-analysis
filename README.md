@@ -17,6 +17,4 @@
 - [TUTORIAL]()
 
 ### [Lecture 5: Thảo Luận (11h15-11h30) [Group]](Lecture_5)
-- [PDF](Lecture_5/Introduction_DNA-seq_20241215.pdf)
-- [YOUTUBE](https://www.youtube.com/watch?v=PPeri-O-6OY&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=2)
 
