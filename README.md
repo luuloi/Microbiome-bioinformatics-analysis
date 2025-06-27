@@ -8,7 +8,7 @@
 - [YOUTUBE]()
 
 ### [Lecture 3: Nghiên cứu đặc điểm của hệ vi sinh vật trong đất nông nghiệp ở Lâm Đồng, Việt Nam (9h45-10h30) [Hung]](Lecture_3)
-- [PDF](Lecture_3/Introduction_DNA-seq_20241215.pdf)
+- [PDF](https://docs.google.com/presentation/d/1PD7S_VM_Jl6B4VmVQKx9ese0Bz-JVgCdFuyzgBrSfHM/edit?usp=sharing)
 - [YOUTUBE](https://www.youtube.com/watch?v=PPeri-O-6OY&list=PLXtgXP89Tyn-iYKR7_ShHyQEQN3CTt6AW&index=2)
 
 ### [Lecture 4: Phát hiện vi khuẩn và gene kháng kháng sinh trong nhiễm trùng huyết bằng phương pháp giải trình tự thế hệ mới (10h30-11h15) [Huy]](Lecture_4)
