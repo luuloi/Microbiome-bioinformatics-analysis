@@ -5,7 +5,6 @@
 
 ### [Lecture 2: Ảnh hưởng của việc bổ sung lysophospholipid vào khẩu phần ăn lipid thấp lên hệ vi sinh vật đường ruột của tôm thẻ chân trắng (Litopenaeus vannamei)  (9h-9h45) [Khai]](Lecture_2)
 - [PDF](https://github.com/luuloi/Microbiome-bioinformatics-analysis/blob/main/lecture2/16Sshrimp_RP.pptx.pdf)
-- [YOUTUBE]()
 
 ### [Lecture 3: Nghiên cứu đặc điểm của hệ vi sinh vật trong đất nông nghiệp ở Lâm Đồng, Việt Nam (9h45-10h30) [Hung]](Lecture_3)
 - [PDF](https://docs.google.com/presentation/d/1PD7S_VM_Jl6B4VmVQKx9ese0Bz-JVgCdFuyzgBrSfHM/edit?usp=sharing)
