@@ -1,5 +1,8 @@
 # Microbiome Bioinformatics Analysis
 ## Lecture Content
+
+![image](https://github.com/user-attachments/assets/fa572024-a344-430d-965d-787c9b023a83)
+
 ### [Lecture 1: Introduction to Next-Generation Sequecning (NGS), Microbiome and Applications (8h30-9h) [Loi]](Lecture_1)
 - [PDF](Lecture_1/Introduction_microbiome_2025June27.pdf)
 
