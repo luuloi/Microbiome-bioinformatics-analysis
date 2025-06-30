@@ -12,6 +12,5 @@
 ### [Lecture 4: Phát hiện vi khuẩn và gene kháng kháng sinh trong nhiễm trùng huyết bằng phương pháp giải trình tự thế hệ mới (10h30-11h15) [Huy]](Lecture_4)
 - [PPT](https://docs.google.com/presentation/d/16WdPNaH-zDNQNwY7eJuAQpekHc1Sgqzd_yB-nDSgtVk/edit?usp=sharing)
 
-
 ### [Lecture 5: Thảo Luận (11h15-11h30) [Group]](Lecture_5)
 
